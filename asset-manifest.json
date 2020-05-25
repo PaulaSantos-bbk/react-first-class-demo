@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-first-class-demo/static/css/main.62fa7d98.chunk.css",
+    "main.css": "/react-first-class-demo/static/css/main.c363e9e3.chunk.css",
     "main.js": "/react-first-class-demo/static/js/main.07ff3003.chunk.js",
     "main.js.map": "/react-first-class-demo/static/js/main.07ff3003.chunk.js.map",
     "runtime-main.js": "/react-first-class-demo/static/js/runtime-main.a541b06d.js",
@@ -8,15 +8,15 @@
     "static/js/2.cedb6775.chunk.js": "/react-first-class-demo/static/js/2.cedb6775.chunk.js",
     "static/js/2.cedb6775.chunk.js.map": "/react-first-class-demo/static/js/2.cedb6775.chunk.js.map",
     "index.html": "/react-first-class-demo/index.html",
-    "precache-manifest.5fb9d3f3e6338939ada53d5c7938647d.js": "/react-first-class-demo/precache-manifest.5fb9d3f3e6338939ada53d5c7938647d.js",
+    "precache-manifest.f5c63affefd8bd0f2ce3d3d8d3c1212e.js": "/react-first-class-demo/precache-manifest.f5c63affefd8bd0f2ce3d3d8d3c1212e.js",
     "service-worker.js": "/react-first-class-demo/service-worker.js",
-    "static/css/main.62fa7d98.chunk.css.map": "/react-first-class-demo/static/css/main.62fa7d98.chunk.css.map",
+    "static/css/main.c363e9e3.chunk.css.map": "/react-first-class-demo/static/css/main.c363e9e3.chunk.css.map",
     "static/js/2.cedb6775.chunk.js.LICENSE.txt": "/react-first-class-demo/static/js/2.cedb6775.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a541b06d.js",
     "static/js/2.cedb6775.chunk.js",
-    "static/css/main.62fa7d98.chunk.css",
+    "static/css/main.c363e9e3.chunk.css",
     "static/js/main.07ff3003.chunk.js"
   ]
 }

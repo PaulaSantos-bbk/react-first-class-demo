@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-first-class-demo/static/css/main.c19c1fcd.chunk.css",
-    "main.js": "/react-first-class-demo/static/js/main.baae77a3.chunk.js",
-    "main.js.map": "/react-first-class-demo/static/js/main.baae77a3.chunk.js.map",
-    "runtime-main.js": "/react-first-class-demo/static/js/runtime-main.a541b06d.js",
-    "runtime-main.js.map": "/react-first-class-demo/static/js/runtime-main.a541b06d.js.map",
-    "static/js/2.cedb6775.chunk.js": "/react-first-class-demo/static/js/2.cedb6775.chunk.js",
-    "static/js/2.cedb6775.chunk.js.map": "/react-first-class-demo/static/js/2.cedb6775.chunk.js.map",
-    "index.html": "/react-first-class-demo/index.html",
-    "precache-manifest.0d18a615670cd03c976fddefacfaf830.js": "/react-first-class-demo/precache-manifest.0d18a615670cd03c976fddefacfaf830.js",
-    "service-worker.js": "/react-first-class-demo/service-worker.js",
-    "static/css/main.c19c1fcd.chunk.css.map": "/react-first-class-demo/static/css/main.c19c1fcd.chunk.css.map",
-    "static/js/2.cedb6775.chunk.js.LICENSE.txt": "/react-first-class-demo/static/js/2.cedb6775.chunk.js.LICENSE.txt"
+    "main.css": "/react-milestone-i/static/css/main.c19c1fcd.chunk.css",
+    "main.js": "/react-milestone-i/static/js/main.4286fd2b.chunk.js",
+    "main.js.map": "/react-milestone-i/static/js/main.4286fd2b.chunk.js.map",
+    "runtime-main.js": "/react-milestone-i/static/js/runtime-main.577c644e.js",
+    "runtime-main.js.map": "/react-milestone-i/static/js/runtime-main.577c644e.js.map",
+    "static/js/2.cedb6775.chunk.js": "/react-milestone-i/static/js/2.cedb6775.chunk.js",
+    "static/js/2.cedb6775.chunk.js.map": "/react-milestone-i/static/js/2.cedb6775.chunk.js.map",
+    "index.html": "/react-milestone-i/index.html",
+    "precache-manifest.4a9f46183a641c323b8cf71a724a332f.js": "/react-milestone-i/precache-manifest.4a9f46183a641c323b8cf71a724a332f.js",
+    "service-worker.js": "/react-milestone-i/service-worker.js",
+    "static/css/main.c19c1fcd.chunk.css.map": "/react-milestone-i/static/css/main.c19c1fcd.chunk.css.map",
+    "static/js/2.cedb6775.chunk.js.LICENSE.txt": "/react-milestone-i/static/js/2.cedb6775.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a541b06d.js",
+    "static/js/runtime-main.577c644e.js",
     "static/js/2.cedb6775.chunk.js",
     "static/css/main.c19c1fcd.chunk.css",
-    "static/js/main.baae77a3.chunk.js"
+    "static/js/main.4286fd2b.chunk.js"
   ]
 }
